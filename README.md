@@ -1,6 +1,7 @@
 # Reconhecimento de voz feito com HTML, CSS e JavaScript.
 
-Projeto de reconhecimento de voz utilizando a Web Speech API, uma API que incorpora vozes para aplicações WEB.
+Projeto de reconhecimento de voz utilizando a Web Speech API, uma API que incorpora vozes para aplicações WEB.\
+Possui os botões gravar, parar gravação, baixar o conteúdo em txt e limpar o conteúdo da tela.
 
 <h2> Linguagens utilizadas: </h2>
 
